@@ -8,7 +8,7 @@
   "files": [
     {
       "path": "Mods.zip",
-      "url": "https://github.com/loboxy03/1.0.0/releases/download/v1.0.0/Mods.zip",
+      "url": "https://github.com/Slownedmc/PeriSafio/releases/download/v1.0.0/Mods.zip",
       "sha256": "bdfb68428d32f308397e390089ea9f275f62b3de4c0cd826e1838827148b9dc1",
       "size": 44931312,
       "kind": "archive",
@@ -16,7 +16,7 @@
     },
     {
       "path": "ResourcePack.zip",
-      "url": "https://github.com/loboxy03/1.0.0/releases/download/v1.0.0/ResourcePack.zip",
+      "url": "https://github.com/Slownedmc/PeriSafio/releases/download/v1.0.0/ResourcePack.zip",
       "sha256": "7ecdcb57a8334cf8960b6bc27c5160f3c0bd91e5d4eb6858bcb68dd24688c469",
       "size": 42207619,
       "kind": "archive",
