@@ -5,6 +5,19 @@
   "minecraft": "1.20.1",
   "modloader": "forge",
   "forge": "47.3.0",
+  "launcher": {
+    "minimumVersion": "0.1.0",
+    "latestVersion": "0.1.0",
+    "installerUrl": "",
+    "restartRequiredAfterPackUpdate": true
+  },
+  "news": [
+    {
+      "date": "2026-10-14",
+      "title": "PeriSafio ya está listo",
+      "text": "Pack Forge 1.20.1 publicado. El launcher verifica y actualiza mods y resourcepacks automáticamente."
+    }
+  ],
   "files": [
     {
       "path": "Mods.zip",
